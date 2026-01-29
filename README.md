@@ -1,2 +1,1 @@
-# FutBot_2026
 En este repositorio se subiran todas las pruebas realizadas que funcionen correctamente, cada carpeta contiene el código de Python para la Raspberry y el código de Arduino para el Balboa, también se incluyen los comandos para instalar las bibliotecas necesarias para el correcto funcionamiento del código.
